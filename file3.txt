@@ -1,1 +1,13 @@
+<<<<<<< HEAD
 merge conflict
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+merge conflict data
+=======
+new merge change
+>>>>>>> Mergesort-Impl
+=======
+merge conflict
+>>>>>>> parent of 59e3b44... made changes to file3.txt
+>>>>>>> 1284e6261d6e38033bc75db5b27dd4af43fd5103
